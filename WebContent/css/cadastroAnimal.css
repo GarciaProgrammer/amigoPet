@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+
+
+main{
+    background-image: linear-gradient(to right ,  #8a2be2, #f4a460);
+    width: 100%;
+    padding-right: 0;
+    text-align: center;
+
+    
+   
+}
+
+
+#formulario-cadastro-animal{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-right: 0;
+    padding: 2em;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding: 1em;
+    display: inline-block;
+    position: relative;
+}
+
+#titulo-formulario{
+    margin: 1em;
+}
+
+
+#idade{
+    width: 80px;
+}
+
+#sexoAnimal{
+    margin: 1em;
+}
+
+#campo-imagem {
+    margin: 1em;;
+    
+    }
+
+#button-enviar{
+    width: 10em;
+}
